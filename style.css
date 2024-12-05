@@ -1,0 +1,42 @@
+body{
+    background-color: #FFDD56;
+}
+
+header{
+    background-color: #FFDD56;
+    text-align: center;
+}
+
+nav{
+   display: flex; 
+   justify-content: space-around;
+height: 30px;
+margin: 10px;
+}
+
+nav a{
+    border-radius: 25px;
+    background-color: rgb(194, 166, 9);
+    text-decoration: none;
+    padding: 5px;
+
+}
+
+main{
+    background-color: #7DF181;
+}
+
+.gg{
+    background-color: #30AAAC;
+    display: flex;
+    justify-content: space-around;
+}
+
+.gg img{
+    height: 250px;
+    width: 400px;
+}
+
+footer{
+    background-color:#D98989 ;
+}
